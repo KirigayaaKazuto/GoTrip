@@ -1156,7 +1156,7 @@ transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
     }
 
     .subscribe--form__btn {
-        margin-right: 10px;
+        margin-right: 3px;
         padding: 10px 25px;
         border-radius: 35px;
         font-size: 12px;
