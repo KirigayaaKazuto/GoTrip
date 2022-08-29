@@ -1133,4 +1133,32 @@ transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
     .destinations__slider {
         width: 380px;
     }
+    
+    /*Subscribe*/
+
+
+    .subscribe__title {
+        margin-bottom: 20px;
+        font-size: 20px;
+    }
+
+    .subscribe--form {
+        column-gap: 10px;
+        padding: 6px 0 6px 6px;
+        border-radius: 25px;
+    }
+
+    .subscribe--form__input {
+        max-width: 480px;
+        padding: 0;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .subscribe--form__btn {
+        margin-right: 10px;
+        padding: 10px 25px;
+        border-radius: 35px;
+        font-size: 12px;
+    }
 }
