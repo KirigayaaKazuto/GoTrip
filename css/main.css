@@ -1143,7 +1143,7 @@ transition: top 0.2s linear, transform 0.2s ease-in 0.2s;
     }
 
     .subscribe--form {
-        column-gap: 10px;
+        column-gap: 5px;
         padding: 6px 0 6px 6px;
         border-radius: 25px;
     }
